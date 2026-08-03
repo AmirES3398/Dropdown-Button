@@ -18,22 +18,25 @@ A modern and lightweight **Dropdown Button** component built using **HTML5** and
 
 ## 📸 Preview
 
-![Project Preview](./Previews/Before-Hover.png)
-![Project Preview](./Previews/After-Hover.png)
+![Project Preview](./previews/Before-Hover.png)
+![Project Preview](./previews/After-Hover.png)
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-CSS-Dropdown-Button/
+Dropdown-Button/
 │
+├── README.md
+├── previews/
+│   ├── Before-Hover.png
+│   └── After-Hover.png
 ├── index.html
 ├── styles/
 │   └── app.css
-├── images/
-│   └── favicon.png
-└── README.md
+└── images/
+    └── favicon.png
 ```
 
 ---
@@ -78,7 +81,7 @@ This mini project was created to practice:
 
 **Amirhosein**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/AmirES3398
 
 ---
 
@@ -105,8 +108,8 @@ GitHub: https://github.com/your-username
 ## 📸 پیش‌نمایش
 
 
-![Project Preview](./Previews/Before-Hover.png)
-![Project Preview](./Previews/After-Hover.png)
+![Project Preview](./previews/Before-Hover.png)
+![Project Preview](./previews/After-Hover.png)
 
 
 ---
@@ -114,14 +117,17 @@ GitHub: https://github.com/your-username
 ## 📂 ساختار پروژه
 
 ```text
-CSS-Dropdown-Button/
+Dropdown-Button/
 │
+├── README.md
+├── previews/
+│   ├── Before-Hover.png
+│   └── After-Hover.png
 ├── index.html
 ├── styles/
 │   └── app.css
-├── images/
-│   └── favicon.png
-└── README.md
+└── images/
+    └── favicon.png
 ```
 
 ---
