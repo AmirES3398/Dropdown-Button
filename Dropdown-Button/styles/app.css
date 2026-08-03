@@ -1,0 +1,82 @@
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.drop-down-btn-wrapper {
+    width: 110px;
+    position: relative;
+}
+
+.drop-down-btn {
+    width: 100%;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    background-color: #1976D2;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 0px 12px;
+    font-family: inherit;
+    gap: 6px;
+    cursor: pointer;
+    transition: all 150ms ease-in 80ms;
+}
+
+.button-icon {
+    width: 14px;
+    height: 14px;
+    transition: all 150ms ease-in 80ms;
+}
+
+.drop-down-wrapper {
+    width: 100%;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    background: #fff;
+    padding: 10px 10px 8px 10px;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    top: 32px;
+    transition: all 150ms ease-in 80ms;
+}
+
+.drop-down-part {
+    width: 100%;
+    text-decoration: none;
+    display: block;
+    color: #1b1b1b;
+    text-align: center;
+    margin-bottom: 6px;
+    font-size: 12px;
+}
+
+.drop-down-btn-wrapper:hover .drop-down-btn {
+    background-color: #1565C0;
+}
+
+.drop-down-btn-wrapper:hover .button-icon {
+    transform: rotate(180deg);
+}
+
+.drop-down-btn-wrapper:hover .drop-down-wrapper {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(10px);
+}
