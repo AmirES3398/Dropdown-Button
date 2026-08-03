@@ -18,8 +18,8 @@ A modern and lightweight **Dropdown Button** component built using **HTML5** and
 
 ## 📸 Preview
 
-![Project Preview](./previews/Before-Hover.png)
-![Project Preview](./previews/After-Hover.png)
+![Project Preview](./Dropdown-Button/previews/Before-Hover.png)
+![Project Preview](./Dropdown-Button/previews/After-Hover.png)
 
 ---
 
@@ -28,7 +28,6 @@ A modern and lightweight **Dropdown Button** component built using **HTML5** and
 ```text
 Dropdown-Button/
 │
-├── README.md
 ├── previews/
 │   ├── Before-Hover.png
 │   └── After-Hover.png
@@ -37,6 +36,7 @@ Dropdown-Button/
 │   └── app.css
 └── images/
     └── favicon.png
+README.md
 ```
 
 ---
@@ -108,8 +108,8 @@ GitHub: https://github.com/AmirES3398
 ## 📸 پیش‌نمایش
 
 
-![Project Preview](./previews/Before-Hover.png)
-![Project Preview](./previews/After-Hover.png)
+![Project Preview](./Dropdown-Button/previews/Before-Hover.png)
+![Project Preview](./Dropdown-Button/previews/After-Hover.png)
 
 
 ---
@@ -119,7 +119,6 @@ GitHub: https://github.com/AmirES3398
 ```text
 Dropdown-Button/
 │
-├── README.md
 ├── previews/
 │   ├── Before-Hover.png
 │   └── After-Hover.png
@@ -128,7 +127,7 @@ Dropdown-Button/
 │   └── app.css
 └── images/
     └── favicon.png
-```
+README.md
 
 ---
 
