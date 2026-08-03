@@ -19,8 +19,11 @@ A modern and lightweight **Dropdown Button** component built using **HTML5** and
 ## 📸 Preview
 
 Before hover:
+
 ![Project Preview](./Dropdown-Button/previews/Before-Hover.png)
-After hover
+
+After hover:
+
 ![Project Preview](./Dropdown-Button/previews/After-Hover.png)
 
 ---
