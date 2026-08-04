@@ -130,17 +130,18 @@ Dropdown-Button/
 ├── index.html
 ├── styles/
 │   └── app.css
-└── images/
-    └── favicon.png
+├── images/
+│   └── favicon.png
 README.md
+```
 
 ---
 
 ## 🛠️ تکنولوژی‌های استفاده‌شده
 
-* HTML5
-* CSS3
-* Google Fonts (Poppins)
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
 
 ---
 
@@ -152,7 +153,9 @@ README.md
 git clone https://github.com/your-username/your-repository-name.git
 ```
 
-2. فایل **index.html** را در مرورگر اجرا کنید.
+2. وارد پوشه پروژه شوید.
+
+3. فایل `index.html` را در مرورگر اجرا کنید.
 
 ---
 
